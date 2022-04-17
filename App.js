@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Its my Fiorst App with GitHub!</Text>
+      <Text>Its my Fiorst App with GitHub!!</Text>
       <StatusBar style="auto" />
     </View>
   );
